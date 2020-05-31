@@ -8,7 +8,7 @@ class SpringbootStartApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println('b');
+        System.out.println('c');
     }
 
 }
